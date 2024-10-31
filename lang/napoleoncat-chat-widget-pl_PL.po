@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NapoleonCat Chat Widget\n"
+"POT-Creation-Date: 2018-01-17 09:51+0100\n"
+"PO-Revision-Date: 2018-01-17 09:52+0100\n"
+"Last-Translator: Karol Krakowiak <karol@krakowiak.design>\n"
+"Language-Team: NapoleonCat\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: napoleoncat-chat-widget.php\n"
+
+#: includes/form.php:2
+msgid "NapoleonCat Chat Widget"
+msgstr ""
+
+#: includes/form.php:11
+msgid "Facebook Page URL"
+msgstr "Adres strony na Facebooku"
+
+#: includes/form.php:19
+msgid "Language"
+msgstr "Język"
+
+#: includes/form.php:33
+msgid "Save"
+msgstr "Zapisz"
+
+#: includes/form.php:38
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: includes/form.php:39
+msgid ""
+"Leave us your e-mail address and we will send you our newsletter and product "
+"updates. We promise not to spam you"
+msgstr ""
+"Zostaw swój e-mail i bądź na bieżąco z ciekawymi informacjami od nas. "
+"Obiecujemy, że będzie to tylko nasz merytoryczny newsletter. Nie spamujemy"
+
+#: includes/form.php:46
+msgid "Your email address…"
+msgstr "Twój adres email…"
+
+#: includes/form.php:49
+msgid "Join"
+msgstr "Dołącz"
+
+#: includes/form.php:68
+msgid "Powered by"
+msgstr "Stworzone przez"
+
+#: napoleoncat-chat-widget.php:16
+msgid ""
+"Support your customers with a free live chat. Unlock the potential of "
+"Facebook Messenger to boost your sales and user satisfaction."
+msgstr ""
+"Rozmawiaj z klientami Twojego sklepu lub użytkownikami strony przy pomocy "
+"darmowego komunikatora. Wykorzystaj potencjał Facebook Messengera."
